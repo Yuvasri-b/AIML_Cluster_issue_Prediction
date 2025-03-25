@@ -11,6 +11,10 @@ historical and real-time cluster metrics.
 For a detailed **write up** explaining the approach, key metrics used, and model performance.
 You can find here : https://drive.google.com/file/d/1vGMfGLKxrDbeqzUzqCbasxPyk5KqJApx/view?usp=drive_link
 
+YouTube link for presentation : https://youtu.be/hzV_hq1OQJ0?feature=shared
+
+Presentation File : https://docs.google.com/presentation/d/1DE9QcHgSQAwzh1UhFGjd9HX9R30Fu_uD/edit?usp=drivesdk&ouid=116248132805767967524&rtpof=true&sd=true
+
 What I have done :
 
 1️⃣ Collected real-time Kubernetes metrics (CPU, memory, disk, network usage, and logs) using Minikube and system monitoring tools.
